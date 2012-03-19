@@ -1,0 +1,7 @@
+HBWrapper is simple PHP class that wraps php_curl and php 5+ magic methods
+into easy to use interface.
+
+HostBill website: http://hostbillapp.com/
+HostBill API: http://api.hostbillapp.com/
+
+Sample usage: see example.php file
